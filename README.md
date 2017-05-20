@@ -13,13 +13,14 @@ I have no curriculum for this, so we'll just go with things we find online or pr
 * have a text editor installed along with its packages for linting javascript and bracket matching. I recommend atom with the packages `linter` and `linter-jshint`
 * also install node.js from [here](https://nodejs.org/en/download/package-manager/#osx)
 * git should also be installed.
-* on that note, clone this repo to your computer and then check out a branch in your name:
 
 ### if you are using linux or windows and need to install linux:
 * follow the instructions in the Why Can't I Use Windows? Section [here](https://www.theodinproject.com/courses/web-development-101/lessons/installations) and choose to use a virtual machine (seamless integration with windows/limited resources), dual boot (best performance/hardest to set up), or Online IDE (no set up/stuck with built in tools).
 * have a text editor installed along with its packages for linting javascript and bracket matching. Three good options are [Sublime Text 3](https://www.sublimetext.com/3), [Atom](https://atom.io/), and [Visual Studio Code](https://code.visualstudio.com/), use their integrated package managers to install `linter` and `linter-jshint`
 * also install node.js from [here](https://nodejs.org/en/download/package-manager/)
 * git should also be installed.
+
+### clone the repo:
 * on that note, clone this repo to your computer and then check out a branch in your name:
 
 ```
